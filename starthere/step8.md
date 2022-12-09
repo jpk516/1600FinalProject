@@ -9,4 +9,4 @@ Next, select **Ethernet** from the left side panel. (outlined in red).
 
 [Continue to step 9](/starthere/step9.md)  
 
-[Return to main page](../README.md)
+[Return to main page](/README.md)
