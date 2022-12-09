@@ -13,4 +13,4 @@ In this example, I will select the **Ethernet** adapter. (highlighted in red).
 
 [Continue to step 11](/starthere/step11.md)  
 
-[Return to main page](../README.md)
+[Return to main page](/README.md)
