@@ -7,6 +7,6 @@ In this command window, type: `ipconfig`
 
 ![Cmd window2](/images/step5-type-ipconfig.PNG "window")  
 
-[Continue to step 5](/step5.md)  
+[Continue to step 5](/starthere/step5.md)  
 
 [Return to main page](../README.md)
