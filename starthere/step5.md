@@ -8,6 +8,6 @@ If you're using a wireless adapter, it may have a different name such as: `Wirel
 ![Image showing box around ip info](/images/step6-look-at-ipv4-address.PNG "desktop")
 >Take note of these numbers, as we'll need them later in the tutorial.  
 
-[Continue to step 6](/step6.md)  
+[Continue to step 6](/starthere/step6.md)  
 
 [Return to main page](../README.md)
