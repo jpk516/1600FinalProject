@@ -1,6 +1,6 @@
 # Step 3
 
-Next, in the search bar, type `cmd`  
+Next, in the search bar, type `cmd` and press Enter.  
 
 
 
