@@ -7,6 +7,6 @@ Once the start menu is open, locate the search bar.
 ![Step 2 search bar](/images/step2-start.PNG "step2")
 
 
-[Continue to step 3](/step3.md)  
+[Continue to step 3](/starthere/step3.md)  
 
 [Return to main page](../README.md)
